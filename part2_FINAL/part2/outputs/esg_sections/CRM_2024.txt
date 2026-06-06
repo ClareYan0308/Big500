@@ -1,0 +1,40 @@
+sustainability, we look forward to continuing our partnership with you, delivering on our commitments for profitable growth and leading our customers and industry into the next step of this AI revolution.
+Accordingly, we would like to invite you to attend the 2024 Annual Meeting of Stockholders of Salesforce, Inc. on Thursday, June 27, 2024 at 11:00 a.m. Pacific Time. This year, building on the success of recent years, we are continuing to use a virtual meeting format to provide a consistent experience to all stockholders regardless of location and to reduce the environmental impact of our meeting. We will provide a live audio webcast of the annual meeting at www.virtualshareholdermeeting.com/CRM2024.
+At this year’s meeting, we will vote on the election of directors, an amendment of our Restated Certificate of Incorporation to provide exculpation from liability for certain officers in accordance with recent amendments to Delaware law, an amendment and restatement of our 2013 Equity Incentive Plan, and the ratification of the selection of Ernst & Young LLP as Salesforce’s independent registered public accounting firm. We will also conduct a nonbinding advisory vote to approve the compensation of Salesforce’s named executive officers. If properly presented at the meeting, we will also consider three stockholder proposals as described in the Notice of 2024 Annual Meeting of Stockholders and Proxy Statement. Finally, we will transact such other business as may properly come before the meeting, and stockholders will have an opportunity to ask questions.
+Your vote is important. Whether or not you plan to participate in the annual meeting, please vote as soon as possible. You may vote over the Internet or, if you requested printed copies of the proxy materials be mailed to you, by telephone or by mailing a completed proxy card or voting instruction form. Your vote by proxy will ensure your representation at the annual meeting regardless of whether you participate in the meeting. Details regarding the annual meeting and the business to be conducted are described in the accompanying Notice of 2024 Annual Meeting of Stockholders and Proxy Statement.
+Thank you for your trust and ongoing support of Salesforce.
+Marc Benioff
+Chair of the Board of Directors
+Chief Executive Officer
+Table of Contents
+Letter from our Lead Independent Director
+May 16, 2024
+Dear Fellow Stockholders,
+As Lead Independent Director of the Salesforce Board of Directors, I have the privilege of sharing an update on the Board’s actions and priorities. As we approach the 2024 Annual Meeting and reflect on a truly extraordinary year for Salesforce, I thank you for your trust and investment in our company and long-term business strategy.
+Oversight of Salesforce’s Transformation
+In fiscal 2024, we made transformative change and innovated at a rapid pace while advancing our commitment to profitable growth and value creation for our stockholders in both the near and long term. Our Board, including through our dedicated Business Transformation Committee, has spent the last year closely overseeing management’s efforts to transform the business and strengthen our foundation for sustained operational excellence and value creation.
+We are extremely proud of Salesforce’s commitment to improving operational efficiencies while also delivering incredible innovation for our customers and returns for our stockholders. In fiscal 2024, Salesforce achieved record margin growth and cash flow as the company continued to innovate across its entire portfolio of industry-leading products and deliver groundbreaking advancements, like Data Cloud and Einstein Copilot, to help our customers transform for the AI future. As a result of actions taken, including the progress made on the restructuring plan announced in late fiscal 2023, the company also saw significant improvements in its operating expenses across all operating categories and we expect to maintain this focus of operational discipline over the longer term.
+With the emergence of the next generation of AI and the transformation of our broader industry, Salesforce is positioned to lead customers into an exciting new era of productivity and growth. Our Board is confident in Salesforce’s ability to drive innovation and advance our business while upholding the company’s core values of trust, customer success, innovation, equality, and sustainability.
+Capital Allocation Framework
+Our Board also continues to oversee substantial changes to Salesforce’s capital allocation framework, consistent with our commitment to drive long-term cash flow. In February 2024, our Board was pleased to declare Salesforce’s first-ever cash dividend program, building on our recently enhanced capital return strategy. Following the inauguration of Salesforce’s share repurchase program in late 2022, our Board has twice increased the authorized repurchases by $10.0 billion, most recently in February 2024, for an aggregate total authorization of $30.0 billion. And since the inception of this program, Salesforce has returned $11.7 billion of capital to stockholders through share repurchases as of the end of fiscal 2024. Our share repurchases fully offset our stock based compensation in fiscal 2024.
+Stockholder Engagement
+As you have heard from Marc, building even stronger relationships with our stockholders through our robust outreach program was a key priority for both the company and our Board. Oscar Munoz, Chair of our Business Transformation Committee, John Roos, Chair of our Compensation Committee, and I had the opportunity to directly engage with stockholders to discuss a range of matters over the past year, including our long-term growth strategy, financial and operational priorities, human capital management, and governance practices. We appreciate the insights shared and look forward to hearing your views as we continue to move forward. And as further discussed in the proxy statement, our Board continued to leverage our ongoing board evaluation process and director skills matrix to make sure our board composition is well-matched to the opportunities and needs of our business going forward.
+Salesforce recently celebrated our first 25 years as a company. As we build on this quarter-century of innovation, Marc and I, on behalf of all our directors, are confident that Salesforce is well-positioned to continue delivering profitable growth for our customers, employees, communities, and investors over the coming years. We thank you for continuing to join us on this journey as we blaze a new trail in this rapidly changing industry.
+Robin Washington
+Lead Independent Director
+Table of Contents
+Salesforce, Inc.
+415 Mission Street
+3rd Floor
+San Francisco, California 94105
+NOTICE OF 2024 ANNUAL MEETING OF STOCKHOLDERS
+To be held Thursday, June 27, 2024
+TO THE STOCKHOLDERS OF SALESFORCE, INC.:
+NOTICE IS HEREBY GIVEN that the 2024 Annual Meeting of Stockholders (the “Annual Meeting”) of Salesforce, Inc., a Delaware corporation (“Salesforce”), will be held on Thursday, June 27, 2024 at 11:00 a.m. Pacific Time .
+This year’s meeting is a virtual stockholder meeting conducted exclusively via a live audio webcast at www.virtualshareholdermeeting.com/CRM2024 .
+The items of business are:
+To elect Marc Benioff, Laura Alber, Craig Conway, Arnold Donald, Parker Harris, Neelie Kroes, Sachin Mehra, Mason Morfit, Oscar Munoz, John V. Roos, Robin Washington, Maynard Webb and Susan Wojcicki to serve as directors;
+To amend our Restated Certificate of Incorporation to provide exculpation from liability for certain officers of Salesforce in accordance with recent amendments to Delaware law;
+To amend and restate our 2013 Equity Incentive Plan to increase the number of shares reserved for issuance by 36 million shares and extend the plan term;
+To ratify the appointment of Ernst & Young LLP as our independent registered public accounting firm for the fiscal year ending January 31, 2025;
+To approve, on an advisory basis,

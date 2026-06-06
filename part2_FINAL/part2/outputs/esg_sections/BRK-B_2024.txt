@@ -1,0 +1,40 @@
+climate change are assessed within the enterprise risk management framework, along with the adoption of climate-specific risk management procedures. These procedures include stress testing and review of post-stress metrics as well as consideration of the frequency and severity of weather events and regulatory adjustments that may impact underwriting decisions or adversely impact future operating results.
+Berkshire’s Board periodically receives reports on the major risks and opportunities of Berkshire’s operating businesses. The insurance operations’ continual assessment of the risk of natural disasters, strong underwriting controls to limit exposure and stress testing lead the Board to conclude that climate-related risks within the insurance group are appropriately monitored and managed within the Board’s risk appetite. Accordingly, the Board recommends that our shareholders vote against this proposal.
+Proxies given without instruction will be voted AGAINST this shareholder proposal.
+SHAREHOLDER PROPOSAL
+Michael W. Frerichs as Treasurer for the State of Illinois and Trustee of the Bright Start College Savings Trust, owner of shares of Berkshire Common Stock with a value of at least $2,000 for the last three years intends to present for action at the meeting the following proposal.
+Resolved: Shareholders of Berkshire Hathaway Inc. (the “Company”) request that its Board of Directors (the “Board”) disclose, in a consolidated annual report (at reasonable expense and omitting proprietary information) greenhouse gas (GHG) emissions data by scope, as well as progress towards its net-zero decarbonization goal, for Berkshire Hathaway Energy (“BHE”).
+8 https://carbonaccountingfinancials.com/en/newsitem/pcaf-launches-the-global-ghg-accounting-and-reporting-standard-for- insurance-associated-emissions
+9 https://sustainability.travelers.com/iw-documents/sustainability/Travelers_TCFDReport2022.pdf, p.34; https://www.aig.com/content/dam/aig/america-canada/us/documents/about-us/report/aig-esg-report_2022.pdf, p.32
+10 https://www.aig.com/content/dam/aig/america-canada/us/documents/about-us/report/aig-esg-report_2022.pdf, p.32
+11 https://www.aig.com/content/dam/aig/america-canada/us/documents/about-us/report/aig-esg-report_2021.pdf.coredownload.pdf, p.38
+12 https://s0.hfdstatic.com/sites/the_hartford/files/sustainability-highlight-report.pdf, p.14
+13 https://www.swissre.com/dam/jcr:5863fbc4-b708-4e61-acc7-6ef685461abb/esg-risk-framework.pdf, p.13
+14 https://www.climateaction100.org/company/berkshire-hathaway/
+Supporting statement: Given that BHE is one of the Company’s largest emitters, and that it is among the top 10 largest owners of US coal power capacity in the country 15 , we are calling on BHE to enhance its sustainability reporting practices. While we recognize that BHE has taken steps to disclose emissions and decarbonization data, 16 the disclosure is insufficient for investors to understand the company’s emissions profile in aggregate and progress towards achieving its net-zero goal. Most importantly, BHE does not follow globally recognized best practices for disclosure of emissions data by breaking it down by scope 17 ; rather, it presents emissions data by the Company’s operating segments (i.e., owned generation and purchased power).
+We encourage BHE to follow best practices when it comes to reporting its emissions. The Task Force on Climate-related Financial Disclosures (TCFD), which is currently supported by over 4,850 organizations worldwide and fully incorporated into the International Sustainability Standards Board (ISSB) disclosure standards 18 , includes reporting emission data by scope in its list of recommended disclosures 19 . BHE is currently falling behind its competitors when it comes to emissions disclosures. For example, both Pacific Gas 20 and Edison International 21 disclose their emission data as recommended by the TCFD, including the breakdown of emissions by scope.
+In addition to more streamlined disclosure of emissions data, we recommend BHE disclose data on the progress of its net-zero and decarbonization goals. We applaud BHE for establishing long-term and intermediary net-zero targets, as well as plans to retire its coal plants and natural gas units 22 . However, in order to facilitate a clearer analysis of the initiatives in place and credibility of the Company’s long-term goals, BHE should present these initiatives alongside emissions data by scope. Other US-based energy companies consolidate this information in a single report, such as Sempra Energy 23 , PPL Corporation 24 , Duke Energy 25 , and ConocoPhillips 26 .
+Furthermore, domestic regulation at both the state 27 and federal 28 level is likely to require that the Company disclose emission data by scope. Therefore, in addition to providing more decision-useful information for investors, standardized reporting would prepare the Company for compliance requirements.
+Therefore, we recommend that BHE disclose:
+Scope 1 and 2 emissions data for all of its operating companies.
+Steps to be taken in its decarbonization strategy to reach intermediate and long-term goals.
+Progress BHE has made on reaching its intermediary and long-term goals.
+We urge shareholders to vote FOR this proposal.
+THE BOARD OF DIRECTORS UNANIMOUSLY FAVORS A VOTE AGAINST THE PROPOSAL FOR THE FOLLOWING REASONS:
+Berkshire’s Board does not believe that additional reporting of Berkshire Hathaway Energy’s greenhouse gas emissions by scope and progress toward its net zero decarbonization goal is necessary at this time.
+Since 2017, Berkshire Hathaway Energy has voluntarily and publicly reported its greenhouse gas emissions data from its U.S.-based operating companies utilizing the template developed collaboratively by industry, Wall Street investors and other organizations (see: https://www.brkenergy.com/esg-sustainability/governance). The data reported includes emissions reduction progress to date, compared to Berkshire Hathaway Energy’s 2005 baseline. Berkshire Hathaway Energy also reports to investors and makes publicly available its progress in transitioning its generating fleet and investment plans in annual presentations to fixed-income investors and at the Edison Electric Institute’s Financial Conference (see: https://www.brkenergy.com/investors/financial-filings).
+15 https://www.spglobal.com/marketintelligence/en/news-insights/latest-news-headlines/top-owners-of-us-coal-gas-capacity-ramp-up- on-renewables-61601422
+16 https://www.brkenergy.com/esg-sustainability/governance
+17 https://ghgprotocol.org/standards
+18 https://www.ifrs.org/news-and-events/news/2023/07/foundation-welcomes-tcfd-responsibilities-from-2024/
+19 https://assets.bbhub.io/company/sites/60/2023/09/2023-Status-Report.pdf
+20 https://www.pge.com/content/dam/pge/docs/about/pge-systems/PGE-Climate-Strategy- Report.pdf?_gl=1*1tqme4m*_gcl_au*NDUzNzcyNDQ2LjE20TgwOTE2MDM.*_ga*MTQxMjkONTIONS4xNjk4MDkxNjAy*_ga_ FQYX57XZEJ*MTcwMDA5MTgxNC4zLjEuMTcwMDA5MjlwOC4zNi4wLjA
+21 https://download.edison.com/406/files/20237/eix-2022-sustainability- report.pdf?Signature=xbowGI10g2Wi57bOuZORCs3kYqs%3D&Expires=1699100336&AWSAccessKeyId=AKIAJX7XEOOELCY GIVDQ&versionId=ExvCtypZUkNJb6hBZAIxOfV9zbbUdnrf&response-content-disposition=attachment
+22 https://berkshirehathaway.com/bhenergy/BHE2022InvestPresent.pdf
+23 https://csr.sempra.com/wp-content/uploads/sempra_csr_2022_rgb.pdf
+24 https://www.pplweb.com/wp-content/uploads/2023/04/PPL-Corporation_2022-Sustainability-Report_FINAL.pdf
+25 https://s201.q4cdn.com/583395453/files/doc_downloads/esg-key-documents/2023/climate-report-2022.pdf
+26 https://static.conocophillips.com/files/resources/conocophillips-2022-sustainability-report.pdf
+27 https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=20232024OSB253
+28 https://www.sec.gov/news/press-release/2022-46
+Until such time as emission reporting requirements are mandatory and relevant guidance is issued by the reporting authorities, the Board does not believe it is prud

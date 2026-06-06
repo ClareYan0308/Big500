@@ -1,0 +1,44 @@
+{
+  "n_company_years": 393,
+  "n_companies": 49,
+  "n_years": 9,
+  "authenticity_index": {
+    "mean": 69.2,
+    "median": 73.1,
+    "std": 22.0,
+    "min": 3.3,
+    "max": 100.0,
+    "p25": 53.4,
+    "p75": 87.8
+  },
+  "category_counts": {
+    "GREENWASH-RISK (over-claim)": 141,
+    "STEALTH (under-claim)": 127,
+    "ALIGNED": 125
+  },
+  "by_sector": {
+    "Consumer Discretionary": 69.4,
+    "Energy": 68.1,
+    "Financials": 67.7,
+    "Healthcare": 69.4,
+    "Technology": 71.9
+  },
+  "by_year": {
+    "2016": 67.9,
+    "2017": 70.5,
+    "2018": 67.6,
+    "2019": 72.4,
+    "2020": 66.8,
+    "2021": 69.5,
+    "2022": 70.5,
+    "2023": 68.6,
+    "2024": 69.4
+  },
+  "gap_signed_by_sector": {
+    "Consumer Discretionary": -2.7,
+    "Energy": 6.3,
+    "Financials": 0.1,
+    "Healthcare": 2.1,
+    "Technology": -6.1
+  }
+}

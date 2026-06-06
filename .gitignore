@@ -1,0 +1,21 @@
+# Exclude large dataset files (GitHub 100MB limit)
+**/part1_dataset.csv
+**/part1_dataset.json
+**/part2_dataset.csv
+**/part2_dataset.json
+
+# Python cache
+__pycache__/
+**/*.pyc
+
+# Raw scraped data (intermediate, not needed in repo)
+**/data/raw/
+**/data/meta/
+**/data/parsed/
+**/data/analysis/
+**/data/clean/
+**/logs/
+
+# OS files
+**/.DS_Store
+**/Thumbs.db

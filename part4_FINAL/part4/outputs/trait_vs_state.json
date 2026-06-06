@@ -1,0 +1,74 @@
+{
+  "part_A_predictive_validity": {
+    "correlations": {
+      "delta_diversity_mentions": {
+        "pearson_r": 0.026,
+        "pearson_p": 0.863,
+        "spearman_rho": -0.168,
+        "spearman_p": 0.263,
+        "n": 46
+      },
+      "delta_workforce_dei": {
+        "pearson_r": -0.209,
+        "pearson_p": 0.164,
+        "spearman_rho": -0.256,
+        "spearman_p": 0.086,
+        "n": 46
+      },
+      "delta_dei_quality": {
+        "pearson_r": -0.253,
+        "pearson_p": 0.09,
+        "spearman_rho": -0.232,
+        "spearman_p": 0.12,
+        "n": 46
+      },
+      "retreat_composite": {
+        "pearson_r": -0.21,
+        "pearson_p": 0.162,
+        "spearman_rho": -0.223,
+        "spearman_p": 0.136,
+        "n": 46
+      }
+    },
+    "group_means": {
+      "ALIGNED": {
+        "n": 16,
+        "delta_diversity_mean": 5.188,
+        "delta_workforce_dei_mean": -0.438,
+        "delta_dei_quality_mean": -0.312,
+        "retreat_composite_mean": 0.009
+      },
+      "GREENWASH-RISK": {
+        "n": 16,
+        "delta_diversity_mean": -5.688,
+        "delta_workforce_dei_mean": -0.062,
+        "delta_dei_quality_mean": -0.062,
+        "retreat_composite_mean": 0.195
+      },
+      "STEALTH": {
+        "n": 14,
+        "delta_diversity_mean": -3.643,
+        "delta_workforce_dei_mean": -0.429,
+        "delta_dei_quality_mean": -0.643,
+        "retreat_composite_mean": -0.234
+      }
+    },
+    "t_tests": {}
+  },
+  "part_B_trait_vs_state": {
+    "ar1_autocorrelation": {
+      "r": 0.212,
+      "p": 0.0001,
+      "n": 344
+    },
+    "variance_decomposition": {
+      "between_company_variance": 98.4,
+      "within_company_variance": 435.0,
+      "icc_like_ratio": 0.185,
+      "interpretation": "18% of variance is between-company (trait); 82% is within-company over time (state)"
+    },
+    "category_transition_rate": 0.517,
+    "direction_flip_rate": 0.422,
+    "n_transitions_observed": 344
+  }
+}

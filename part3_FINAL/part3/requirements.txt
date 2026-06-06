@@ -1,0 +1,6 @@
+# Part 3 dependencies. Index computation requires only pandas + numpy.
+# Visualization requires matplotlib.
+
+pandas>=2.0.0
+numpy>=1.24.0
+matplotlib>=3.7.0

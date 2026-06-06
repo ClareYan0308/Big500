@@ -1,0 +1,22 @@
+# Part 2 dependencies. We use lower-bound ('>=') version constraints so
+# pip does not downgrade newer packages already present in the env (which
+# was the problem when reusing the part1 environment that has lxml 6.x
+# from trafilatura/htmldate).
+
+# ---- HTTP / SEC EDGAR ----
+requests>=2.28.0
+urllib3>=1.26.0
+
+# ---- HTML parsing ----
+beautifulsoup4>=4.11.0
+lxml>=4.9.0
+
+# ---- LLM analysis ----
+anthropic>=0.40.0
+
+# ---- Data handling ----
+pandas>=2.0.0
+
+# ---- Utilities ----
+python-dotenv>=1.0.0
+tqdm>=4.64.0
