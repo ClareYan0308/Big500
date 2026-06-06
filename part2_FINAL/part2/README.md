@@ -254,3 +254,16 @@ part2/
 ```
 
 See `SETUP_GUIDE.md` for installation and run instructions.
+
+## Note on large files
+
+Two of the output files exceed GitHub's 100 MB per-file limit and are
+hosted on Google Drive instead:
+
+- `outputs/part2_dataset.csv` (~143 MB) -- full dataset with proxy text
+- `outputs/part2_dataset.json` (~146 MB) -- JSON version
+
+See [outputs/LARGE_FILES.md](outputs/LARGE_FILES.md) for download links.
+The smaller `outputs/part2_dataset_no_text.csv` (in this repo, ~400 KB)
+contains all 45 columns except the two large text columns, and is
+sufficient for most analyses.
