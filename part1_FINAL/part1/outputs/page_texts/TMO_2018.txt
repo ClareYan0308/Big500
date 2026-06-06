@@ -1,0 +1,4 @@
+How can I decipher three-dimensional biological structure, from tissue to atoms?
+Thermo Scientific Electron Microscopes provide deep scientific insight over multiple length scales: Single Particle Analysis (SPA) allows protein structure determination at atomic level, using Cryo-Electron Microscopy. This Nobel Prize-winning technique can also be applied in situ, to determine structure-function relationships in the cellular context, using Cryo-Tomography. Large Volume Analysis gives insights into the ultrastructure of cells and tissue on the mesoscale.
+Learn more
+Image: Structure of the F-actin-tropomyosin complex visualized by Cryo TEM Single Particle Analysis (Thermo ScientificTM KriosTM G3i Cryo-TEM). Courtesy of Julian von der Ecken and Prof. Dr. Stefan Raunser, Max Planck Institute of Molecular Physiology, Dortmund, Germany.

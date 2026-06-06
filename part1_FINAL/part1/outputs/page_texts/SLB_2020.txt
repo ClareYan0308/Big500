@@ -1,0 +1,42 @@
+Characterization
+- Back to Main Menu
+- Characterization
+- Seismic
+- Surface and Downhole Logging
+- Reservoir Testing
+- Rock and Fluid Analysis
+- Interpretation and Analysis
+Drilling
+- Back to Main Menu
+- Drilling
+- Rigs and Equipment
+- Bottomhole Assemblies
+- Drilling Fluids and Well Cementing
+- Surface and Downhole Logging
+Completions
+- Back to Main Menu
+- Completions
+- Well Completions
+- Fluids and Tools
+- Artificial Lift
+- Stimulation
+- Surface and Downhole Logging
+Production
+- Back to Main Menu
+- Production
+- Processing and Separation
+- Production Systems
+- Production Chemicals
+- Midstream
+Intervention
+- Back to Main Menu
+- Intervention
+- Coiled Tubing Intervention
+- Slickline and Wireline Intervention
+- Subsea Intervention
+- Remedial Services
+- Integrated Well Abandonment
+- Insights
+- Resource Library
+- Locations
+- Software

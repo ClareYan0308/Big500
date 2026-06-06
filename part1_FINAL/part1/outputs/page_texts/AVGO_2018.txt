@@ -1,0 +1,121 @@
+Company History
+Broadcom Inc. is a diversified global semiconductor leader built on 50 years of innovation, collaboration and engineering excellence. With roots based in the rich technical heritage of technology powerhouses AT&T/Bell Labs, Lucent and Hewlett-Packard/Agilent, Broadcom focuses on technologies that connect our world. With the addition of industry leaders LSI, Avago Technologies, Broadcom Corporation, and Brocade, the company has the size, scope and engineering talent to continue leading the industry into the future.
+2018
+- Redomiciled in the United States as Broadcom Inc.
+- Introduced the Industry’s First 5G Radio Switch
+2017
+- Acquired Brocade Communications Systems, Inc.
+- Extended Server Storage Leadership with Comprehensive SFF-TA-1001 (U.3) Reference Platform
+- Introduced World’s First Dual Frequency GNSS Receiver with Centimeter Accuracy for Consumer LBS Applications
+- Announced Availability of Industry’s First Complete Ecosystem of 802.11ax Solutions
+- Introduced First Fully Compliant TSN Ethernet Switch
+- Shipped Industry’s First 16nm Nx56G PAM-4 PHYs for Wired Network Infrastructure
+2016
+- Introduced First Commercial PON OLT Silicon for XGS-PON and NGPON-2 Protocols
+- First to Deliver 64 Ports of 100GE with Tomahawk II 6.4Tbps Ethernet Switch
+- Demonstrated Industry’s First LTE CA Hexaplexer for Mobile Handsets
+- Announced Industry’s First 60GHz Wireless Mesh Solution for Wireless Infrastructure
+- Announced Complete End-to-end Optical PAM-4 Platform for 40/100/200/400GbE Data Center Interconnects
+- Delivered Industry's First Single-Chip 24-Port SAS+SATA Host Bus Adapter
+- Avago Technologies acquires Broadcom Corp. and Broadcom Limited is formed
+2015
+- Released third-generation PCIeTM switches that enable the convergence of servers, storage, and network devices
+- Demonstrated industry-leading 56G PAM4 SerDes
+- Debuted industry’s first LNA-filter module for SDARS car radio systems
+- Shipped more than 1 million industry-leading 25G VCSEL channels
+- Acquired Emulex Corp.
+2014
+- Shipped more than 500,000 QSFP+ MMF optical transceiver modules
+- Acquired PLX Technology Inc.
+- Acquired LSI Corp.
+- Introduced 12 Gbps 16-port SAS solutions
+- Introduced industry’s first automotive-grade photovoltaic MOSFET driver
+- Introduced industry’s first compact 100 Gbps optical engines for CFP4 transceiver form factor
+- Introduced industry’s first 100 Gbps QSFP28 optical transceiver
+2013
+- Acquired CyOptics Inc.
+- Shipped more than 350 million embedded SerDes channels in ASICs and ASSPs
+- Demonstrated 32 Gbps SerDes performance in 28 nm CMOS
+- Acquired Javelin Semiconductor Inc.
+- Introduced 150 Gbps /168 Gbps MicroPOD and MiniPOD solutions
+- Introduced world’s first 100 Gbps CFP2 SR10 optical transceiver
+2012
+- Introduced Vortex Gearbox family of 28 nm CMOS 100 Gbps Ethernet/OTN PHYs
+- Introduced industry’s first precision optical isolation amplifiers optimized for voltage sensing
+- Introduced industry’s first 28 nm 25 Gbps long reach compliant ASIC SerDes for networking equipment
+- Introduced the first Full-Band Capture all-digital TV tuner
+2011
+- Achieved Fiscal Year 2011 revenue of $2.3 billion
+- Announced market's first WiMAX coexistence front-end module
+- Unveiled market’s first optical transceiver platform with 14 Gbps per lane performance,
+- Introduced 16 Gbps Fibre Channel SFP+ modules and four-channel QSFP+ modules
+- Demonstrated world’s first multi-Gigabit optical interconnect for consumer applications
+- Demonstrated market’s first 30 Gbps embedded SerDes performance in 28 nm CMOS technology
+- Shipped more than 150 million SerDes channels
+- Introduced industry’s smallest three-channel reflective encoder and highest-resolution Hall-effect magnetic encoder
+- Expanded industry-leading optocoupler portfolio with a new generation of gate drive devices
+- Introduced the market's brightest oval through-hole LEDs for electronic signage and full-color displays
+2010
+- Achieved Fiscal Year 2010 revenue of $2.1 billion;
+- Cleared Avago’s debt through redemption of the company’s remaining Senior Subordinated Notes
+- Demonstrated industry first 28 Gbps embedded SerDes performance in 40 nm CMOS technology
+- Unveiled the market’s first four-channel parallel optic QSFP+ transceiver capable of enabling multimode 40 Gbps Ethernet uplink applications
+- Demonstrated industry's first CXP parallel optic transceiver solution fully-compliant to industry standards
+- Announced world’s first 4G/LTE Band 7 duplexer for emerging mobile handsets and data terminals
+- Introduced embedded fiber optic solution developed in collaboration with IBM to handle the high-speed data rate requirements of the world's most powerful supercomputers
+- Unveiled compact MicroPODTM embedded parallel optic solution with an aggregate bandwidth of up to 150 Gbps
+- Introduced miniature Optical Finger Navigation input system for cell phones and portable electronic device
+- Created the world’s first Terabit Ethernet switch chip
+2009
+- Introduced industry’s first Direct Current (DC) to 80 GHz Traveling Wave Amplifier for microwave radio systems and satellite Very Small Aperture Terminals (VSAT) applications
+- Announced high performance touch screen interface technology for smartphones and portable electronic communications devices
+- Unveiled advanced embedded optical engine technology to enable high-speed connectivity in a wide range of electronic computing and consumer applications
+- August 6, 2009: Avago completes IPO on NASDAQ, stock symbol: AVGO
+- Shipped more than 1 billion optical mouse units
+2008
+- Acquired Bulk Acoustic Wave (BAW) business from Infineon Technologies AG
+- First to demonstrate 20 Gbps SerDes performance in 40 nm silicon for data center applications
+- Introduced the world’s smallest radio frequency (RF) amplifier for use in a variety of architectures with innovative WaferCap chip scale technology
+- Acquired Nemicon Rotary Encoders Corp. to complement motion control product line
+- First to market with next-generation 10 Gbps Ethernet SFP short reach transceivers for networking equipment
+2007
+- First to offer SerDes supporting IntelTM QuickPathTM Interconnect
+- Introduced FBAR-based quintplexer which brings single antenna, simultaneous GPS and voice to mobile handsets;
+- Shipped more than 500 Million FBAR based modules
+- Acquired fiber business from Infineon Technologies AG
+- Demonstrated parallel optics Ethernet technology capable of 100 Gbps data throughput
+- Launched the first Wi-Fi + Bluetooth + FM combo chip for mobile phones
+2006
+- Shipped 600 millionth optical mouse sensor, 25 millionth ASIC embedded SerDes channel and one-millionth RoHS-compliant fiber optic transceiver module
+- Delivered industry's first high-speed digital optocouplers targeted for hybrid and electric vehicle applications
+- Demonstrated high-performance 12.5 Gbps ASIC embedded SerDes core in 65 nm CMOS
+2005
+- Avago Technologies is established, creating the world’s largest privately held independent semiconductor company
+- KKR and Silver Lake Partners acquire Agilent’s Semiconductor Products Group (SPG) for $2.66 billion.
+- Shipped 400 millionth optical mouse sensor
+2004
+- Shipped 10 millionth lead-free optocoupler, in first year of product availability
+- Achieved 100th mobile phone design win for FBAR duplexer and transmit filter
+- Shipped 4 millionth Tachyon Fibre Channel controller, 300 millionth optical mouse sensor, 25 millionth camera module for mobile phones, 400 millionth imaging ASIC, 10 millionth ASIC embedded SerDes channel, 10 millionth E-pHEMT power amplifier for mobile phones
+2003
+- Shipped 200 millionth optical mouse sensor and 20 millionth FBAR duplexer
+- Shipped more than 500,000 E-pHEMT power amplifier modules per month
+2002
+- Acquired RedSwitch Inc., adding expertise in InfiniBand® and RapidIO® to product portfolio
+- Shipped 100 millionth optical mouse sensor
+- Introduced the first 10-Gbps CMOS transceiver
+2001
+- Shipped 30 millionth optical mouse sensor, 100 millionth system-on-a-chip, and 2.5 millionth small form-factor fiber optic transceiver
+2000
+- Shipped more than 4 million fiber optic transceivers (with MT-RJ connectors)
+1990s
+- Semiconductor Products Group (SPG) formed to increase leverage of core semiconductor competencies to fulfill customer requirements across a broad range of emerging technologies and standards
+- Introduced optical mouse sensor to help eliminate the need for mousepads; enabled the creation of a more precise and longer lasting computer mouse
+- Introduced world’s brightest LED with the combination of bright output, reliability and low power consumption, which replaced incandescent lamps in many applications
+- Introduced the industry’s first low-cost, high-speed, small infrared transceiver, which allowed wireless ‘point and shoot’ data exchange in a wide range of portable computing applications such as phones, computers, printers, cash registers, ATMs, digital cameras and more
+- Created the first single-chip DOCSIS cable modem to allow cable TV operators to provide Internet access
+1970s
+- Introduced the first fiber optic transmitters and receivers for data communications
+1960s
+- Introduced first commercially available light-emitting diode (LED) dot matrix displays
+- Developed breakthrough gallium-arsenide-phosphide (GaAsP) LEDs, which would prove useful in many applications, including alphanumeric displays for handheld devices, stoplights and signage

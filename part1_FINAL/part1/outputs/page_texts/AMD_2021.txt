@@ -1,0 +1,843 @@
+Labor Performance Indicators
+Our primary value, respect for people, is embodied in our employees and extends to our customers, partners, the environment, and the communities where we operate around the world. In this section, you will find information on AMD employees and illness and injury rates.
+|2013
+|2014
+|2015
+|2016
+|2017
+|2018
+|2019
+Employee Data
+|Number of Employees
+|10,671
+|9,690
+|9,139
+|8,219
+|8,904
+|10,141
+|11,421
+|Americas
+|51%
+|45%
+|42%
+|52%
+|53%
+|54%
+|Asia-Pacific/China/Japan
+|46%
+|53%
+|56%
+|46%
+|45%
+|44%
+|Europe/Africa
+Senior Management1
+|Male
+|85%
+|88%
+|87%
+|88%
+|87%
+|86%
+|Female
+|15%
+|12%
+|13%
+|12%
+|13%
+|Employee Total (Female)
+|28%
+|29%
+|24%
+|Americas (Female)
+|20%
+|19%
+|Asia-Pacific/China/Japan (Female)
+|36%
+|29%2
+|29%
+|30%
+|Europe/Africa (Female)
+|21%
+|22%
+|29%
+|35%
+|23%
+|21%
+|22%
+Employee Total (Age)
+|Generation Y (born 1980-2000)
+|42%
+|44%
+|47%
+|48%
+|50%
+|52%
+|55%
+|Generation X (born 1965-1979)
+|43%
+|42%
+|40%
+|39%
+|37%
+|35%
+|Baby Boomers (born 1946-1964)
+|14%
+|13%
+|12%
+|11%
+|10%
+|Traditionalists (born 1927-1945)
+|<1%
+Employee Type
+|Exempt
+|84%
+|88%
+|85%
+|99%
+|Non-Exempt
+|16%
+|12%
+|15%
+|Employee Change
+|(9%)
+|(6%)
+|(10%)2
+|14%
+|13%
+|Americas
+|(1%)
+|(11%)
+|(6%)
+|11%
+|10%
+|16%
+|13%
+|Asia-Pacific/China/Japan
+|(7%)
+|(26%)2
+|12%
+|Europe/Africa
+|12%
+|(8%)
+|(45%)3
+|11%
+|12%
+|17%
+|13%
+|Employee Turnover
+|16%
+|20%
+|19%
+|11%
+|Americas
+|20%
+|Asia-Pacific/China/Japan
+|21%
+|17%
+|13%
+|11%
+|Europe/Africa
+|17%
+|76%3
+|33%
+|10%
+|New Hires
+|2,061
+|1,030
+|1,211
+|1,607
+|1,414
+|2,141
+|2,144
+|Americas
+|38%
+|33%
+|26%
+|49%
+|52%
+|Asia-Pacific/China/Japan
+|56%
+|65%
+|72%
+|49%
+|46%
+|Europe/Africa
+New Hires by Age
+|Generation Y (born 1980-2000)
+|65%
+|67%
+|76%
+|69%
+|66%
+|69%
+|72%
+|Generation X (born 1965-1979)
+|25%
+|20%
+|25%
+|28%
+|25%
+|23%
+|Baby Boomers (born 1946-1964)
+|Traditionalists (born 1927-1945)
+|<1%
+Return to Work Rates After Parental Leave4
+|Male
+|95%
+|98%
+|100%
+|96%
+|Female
+|97%
+|91%
+|99%
+|86%
+|100%
+|97%
+Well-Being5,6
+|Worldwide Injury and Illness Case Rate (per 100 workers)
+|0.10
+|0.14
+|0.10
+|0.06
+|0.05
+|0.06
+|0.02
+|AMD U.S. Injury and Illness Case Rates (per 100 workers)
+|0.20
+|0.30
+|0.20
+|0.16
+|0.08
+|0.0
+|OSHA Case Rate - Private Industry
+|3.10
+|3.20
+|3.0
+|2.7
+|2.8
+|n/a
+|OSHA Case Rate - Computer/Electronic Product Manufacturing
+|1.20
+|1.30
+|1.1
+|1.0
+|1.2
+|n/a
+|OSHA Case Rate - Technical/Engineering Services
+|0.90
+|0.9
+|0.7
+|0.6
+|n/a
+|U.S. Lost Work Days Case Rate (per 100 workers)7
+|1.10
+|0.00
+|0.0
+Volunteerism8
+|AMD Volunteers
+|1,185
+|1,331
+|1,756
+|2,084
+|2,451
+|2,838
+|3.098
+|AMD Volunteer Hours
+|9,043
+|9,2089
+|8,8839
+|7,280
+|10,257
+|15,324
+|15,193
+|Number of Volunteer Events
+|146
+|119
+|122
+|127
+|138
+|154
+|160
+|Units of Blood Donated
+|1,219
+|908
+|366
+|460
+|486
+|818
+|692
+Environmental Performance Indicators
+AMD collects environmental data from AMD locations worldwide and contract suppliers with wafer fabrication sites and assembly and test operations. The following table provides data on energy use, electricity use, carbon equivalent emissions, water use, waste generation and compliance.
+|2013
+|2014
+|2015
+|2016
+|2017
+|2018
+|2019
+Climate
+|Energy
+|Absolute Energy Use (GWh)
+|210
+|149
+|126
+|124
+|129
+|121
+|127
+|Atlanta
+|Austin
+|Bengaluru
+|Cyberjaya
+|Hyderabad
+|Markham
+|Santa Clara
+|n/a
+|Shanghai
+|Singapore
+|Sunnyvale
+|n/a
+|Others sites combined
+|Renewable Energy Use (GWh)10
+|Atlanta
+|Austin
+|Shanghai
+|Other
+|Non Renewable Energy Use (GWh)
+|156
+|115
+|Total Energy/Revenue (KWh/$)
+|0.040
+|0.027
+|0.032
+|0.029
+|0.024
+|0.019
+|0.017
+|Electricity (Indirect Energy, GWh)
+|196
+|142
+|118
+|122
+|116
+|120
+|Atlanta
+|Austin
+|Bengaluru
+|Cyberjaya
+|Hyderabad
+|Markham
+|Santa Clara
+|n/a
+|Shanghai
+|Singapore
+|Sunnyvale
+|n/a
+|Other sites combined
+|Energy Use (Direct, GWh)
+|Atlanta
+|Austin
+|Cyberjaya
+|Markham
+|Santa Clara
+|n/a
+|Singapore
+|Sunnyvale
+|n/a
+|Other sites combined
+|Scope 1 GHG Emissions (MTCO2e)
+|9,591
+|3,497
+|3,480
+|2,634
+|3,847
+|2,802
+|3,190
+|Atlanta
+|Austin
+|1,943
+|816
+|128
+|124
+|373
+|209
+|Bengaluru
+|103
+|115
+|108
+|100
+|Cyberjaya
+|160
+|161
+|Hyderabad
+|359
+|Markham
+|591
+|658
+|633
+|495
+|469
+|541
+|826
+|Santa Clara
+|n/a
+|264
+|215
+|Singapore
+|5,953
+|1,353
+|1,881
+|1,234
+|2,088
+|1,455
+|1,776
+|Sunnyvale
+|633
+|556
+|638
+|602
+|822
+|n/a
+|All other sites combined
+|Scope 2 GHG Emissions (MTCO2e)
+|63,525
+|48,686
+|42,509
+|45,253
+|41,442
+|42,458
+|36,911
+|Atlanta
+|6,962
+|5,620
+|10,682
+|5,441
+|2,894
+|Austin
+|11,708
+|10,64411
+|8,293
+|Bengaluru
+|3,068
+|3,070
+|2,855
+|2,998
+|3,050
+|3,109
+|3,608
+|Cyberjaya
+|5,455
+|6,355
+|6,904
+|6154
+|5,576
+|5,508
+|3,864
+|Hyderabad
+|5,584
+|4,614
+|4,486
+|5,016
+|5,293
+|5,872
+|6,193
+|Markham
+|5,244
+|5,230
+|3,397
+|2,816
+|3,245
+|3,346
+|Santa Clara
+|n/a
+|843
+|1,051
+|Shanghai
+|5,123
+|4,413
+|4,217
+|4,747
+|5,589
+|Singapore
+|15,698
+|11,119
+|10,134
+|10,682
+|8,907
+|8,109
+|8,781
+|Sunnyvale
+|8,674
+|4,621
+|2,094
+|1,771
+|1,937
+|n/a
+|All other sites combined
+|3,161
+|3,085
+|2,802
+|2,730
+|2,403
+|2,114
+|1,245
+|Total Scope 1 and 2 GHG Emissions (MTCO2e)
+|73,116
+|52,183
+|45,990
+|47,887
+|45,289
+|45,260
+|40,100
+|Goal by 2020 (MTCO2e)12
+|n/a
+|41,746
+|Goal Performance (% reduction from 2014)12
+|n/a
+|13%
+|12%
+|13%
+|23%
+|GHG Emissions/Revenue (Scope 1 and 2 gCO2e/$)
+|13.8
+|9.5
+|11.5
+|11.2
+|8.6
+|7.0
+|5.5
+|Estimated SCOPE 3 GHG Emissions (MTCO2e)13
+|527,349
+|1,576,205
+|876,513
+|810,266
+|906,431
+|922,000
+|987,039
+|Product Use14
+|n/a
+|1,197,882
+|463,408
+|389,092
+|407,173
+|418,969
+|440,752
+|Contract Manufacturers15
+|487,784
+|340,448
+|383,066
+|394,824
+|468,718
+|463,647
+|497,241
+|Business Travel
+|13,776
+|13,679
+|12,061
+|10,316
+|11,518
+|12,354
+|11,660
+|Employee Commutes
+|11,409
+|10,618
+|10,379
+|8,729
+|9,906
+|12,372
+|13,381
+|Product Logistics/Shipping16
+|14,380
+|13,578
+|7,599
+|7,305
+|9,116
+|13,253
+|24,005
+Water
+|Water Use (million liters)
+|337
+|195
+|141
+|160
+|200
+|192
+|175
+|Atlanta
+|Austin
+|118
+|Bengaluru
+|Cyberjaya
+|Hyderabad
+|n/a
+|Markham
+|Santa Clara
+|n/a
+|Singapore
+|Sunnyvale
+|n/a
+|Other sites combined
+|Contract Manufacturing (million liters)15
+|5,098
+|3,311
+|3,800
+|3,844
+|3,622
+|4,960
+|5,873
+|Water Use/Revenue (ML/$)
+|63.6
+|35.3
+|37.5
+|29.7
+|23.9
+Waste
+|NHW Generated (metric tons)
+|1,521
+|1,175
+|597
+|57317
+|651
+|639
+|692
+|Atlanta
+|n/a
+|Austin
+|584
+|244
+|205
+|230
+|236
+|302
+|329
+|Bengaluru
+|n/a
+|Hyderabad
+|n/a
+|Markham
+|256
+|349
+|154
+|152
+|157
+|199
+|221
+|Santa Clara
+|n/a
+|Singapore
+|130
+|Sunnyvale
+|551
+|493
+|174
+|129
+|187
+|n/a
+|Other sites combined
+|n/a
+|NHW Recycled (metric tons)
+|1,215
+|881
+|427
+|406
+|455
+|415
+|427
+|NHW Landfilled (metric tons)
+|452
+|433
+|231
+|16717
+|203
+|225
+|265
+|NHW Landfill Diversion Rate (%)18
+|80%
+|75%
+|72%
+|71%
+|70%
+|65%
+|61%
+|Hazardous Waste (HW) Generated (Metric tons)
+|Austin
+|Markham
+|Santa Clara
+|n/a
+|Sunnyvale
+|n/a
+|Singapore
+|HW Recycled/Reused (metric tons)
+|HW Treated Off-Site (metric tons)
+|HW Incinerated (metric tons)
+|HW Landfilled (metric tons)
+|Total Waste Generated (NHW+HW)(metric tons)
+|1,522
+|1,176
+|602
+|57317
+|659
+|642
+|695
+|Total Waste Generated per Revenue (g/$)
+|0.29
+|0.21
+|0.15
+|0.13
+|0.12
+|0.10
+|0.09
+|Contract Manufacturing HW Generated (metric tons)15
+|18,196
+|14,805
+|13,840
+|10,261
+|12,156
+|14,310
+|15,395
+Wastewater
+|Waste Water Discharge19 (million liters)
+|Austin
+|Sunnyvale
+|n/a
+|Wastewater generated per Revenue (ML/$)
+|11.58
+|4.75
+|5.52
+|4.97
+|4.17
+|1.45
+|1.39
+Air Emissions20
+|Ozone Depleting Substances (MTCO2e)
+|6,934
+|2,140
+|2,009
+|1,402
+|2,488
+|1,802
+|1,981
+Compliance
+|Number of Environmental Non-Compliances
+|Number of Health or Safety Non-Compliances
+|Fines (USD)
+|2,801
+Economic Performance Indicators
+In this section, we provide information about AMD’s corporate revenues and our social investment.
+|2013
+|2014
+|2015
+|2016
+|2017
+|2018
+|2019
+|Total Revenue (In millions)21
+|$ 5,299
+|$ 5,506
+|$3,991
+|$4,319(22)
+|$5,253(22)
+|$6,475
+|$6,731
+|Research & Development (In millions)21
+|$ 1,201
+|$ 1,072
+|$947
+|$1,008
+|$1,160
+|$1,434
+|$1,547
+|Net Income (loss) (In millions)21
+|$ (83)
+|$ (403)
+|$(660)
+|($498)
+|($33)
+|$337
+|$341
+Social Investment
+|AMD Foundation
+|$234,931
+|$17,500
+|$13,500
+|$12,000
+|$49,400
+|$117,200
+|$153,000
+|Cash and In-Kind Giving (USD)
+|$351,539
+|$224,553
+|$117,048
+|$159,474
+|$158,716
+|$149,050
+|$297,218
+Cash and In-Kind Giving by Region
+|Americas
+|$410,813
+|$ -
+|$103,548
+|$122,114
+|$178,069
+|$225,538
+|$374,908
+|Europe/Africa
+|$ -
+|Asia-Pacific/China/India
+|$175,657
+|$8,560
+|$26,874
+|$49,360
+|$30,047
+|$40,712
+|$75,310
+Cash and In-Kind Giving by Category
+|Education
+|$300,621
+|$29,103
+|$48,700
+|$$44,792
+|$113,152
+|$82,935
+|$263,754
+|Community Development
+|$285,849
+|$195,450
+|$82,348
+|$126,682
+|$94,964
+|$183,315
+|$186,464
+AMD Political Action Committee (PAC)
+|Disbursements23
+|$ 2,000
+|$2,500
+|$1,500
+|$500
+n/a = not available.
+Values shown in italics represent corrected data and are different from values shown in previous CR Reports.
+- Director level and above.
+- On April 29, 2016, AMD and Nantong Fujitsu Microelectronics Co., Ltd. (TFME) closed a semiconductor joint venture that gave TFME operational control of AMD’s assembly, test, mark and pack (ATMP) manufacturing facilities in Penang, Malaysia and Suzhou, China, including approximately 1,700 employees and management team members.
+- Business closure in June 2015.
+- Based on those who were on LOA Parental / Maternity with start date in that year and if returned to work after LOA end date (with Voluntary or Family reasons).
+- Minor (first aid level) injuries are not included.
+- Our reporting guidelines are based on OSHA reporting criteria.
+- Lost days are calculated based on scheduled workdays.
+- Numbers include contributions from AMD employees and contractors.
+- Volunteer hours in and subsequent to 2014 include employee volunteer personal hours plus hours recorded for company-sponsored volunteer activities. Numbers for 2013 include company-sponsored events only.
+- AMD procures third party verified renewable energy credits (RECs) in the US (Green-e certified) and China (international renewable energy credits, or iRECs).
+- The increase in scope 2 emissions for AMD Austin starting in 2018 is attributed to a difference in allocation of renewable energy credits among AMD sites in the U.S.
+- The goal is a 20% reduction in absolute scope 1+2 GHG emissions from 2014 – 2020. The baseline value is 52,183 MTCO2e, and the goal value is 41,746 MTCO2e. In 2019, performance against the goal was 23% below the baseline based on scope 1+2 emissions of 40,100 MTCO2e.
+- AMD estimates or receives estimates from third parties for several scope 3 GHG emission sources. Scope 3 are indirect emissions (not included in scope 2) that occur in AMD’s supply chain, product use, and travel activities.
+- Starting with 2014 reporting data, AMD estimates annual scope 3 GHG emissions from the energy use of certain products sold. Annual estimates approximate typical energy use of the AMD notebook and desktop Accelerated Processing Units (APUs), the average US emission factor of electricity, the estimated years of service life, and the approximate number of units sold per year.
+- AMD receives estimated data on energy use, GHG emissions, water use, hazardous and non-hazardous waste from our wafer foundries and outsourced semiconductor assembly and test (OSAT) providers that is attributed to AMD products based on a manufacturing index.
+- Product logistics / shipping emissions is provided by third party transportation vendors in accordance with the GHG Protocol.
+- In 2016, there was a one-time disposal of non-operational waste of 966 tons of non-hazardous soil and water from an AMD Superfund site in California. With this one-time disposal, the 2016 waste generated would be 1,539 metric tons, and the percentage of waste diverted from landfill would have been 26%
+- NHW diversion rate is the estimated percentage of NHW generated that is kept from the landfill due to recycling, composting or other means.
+- All wastewater is discharged into municipal wastewater treatment plants according to water quality permitting.
+- Fugitive emissions of greenhouse gases are included as part of total carbon equivalent emissions.
+- Economic data for current and past years is updated annually to reflect AMD’s most recent financial reports
+- ASC 606 Restatement
+- Totals shown are US disbursements made by the AMD PAC and available on the FEC website

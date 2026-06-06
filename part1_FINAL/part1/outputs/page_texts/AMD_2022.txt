@@ -1,0 +1,41 @@
+Corporate Responsibility at AMD
+Embedding corporate responsibility across our value chain and the communities where we live and work
+Our Approach
+At AMD, we develop semiconductor technology that helps to enable the future. Our high-performance processors power the servers for modern data centers, personal computers, game consoles, industrial devices and more. Our technologies help open possibilities for creators, researchers, inventors and explorers to tackle some of the world’s toughest challenges.
+That’s why we are focused on creating the next generation of products that will positively benefit society and the planet. We aspire to embed environmental stewardship across our business, ensure safe and responsible workplaces in our global supply chain, and promote stronger communities where we live and work.
+Strategic Focus Areas
+Corporate responsibility (CR) represents an integral aspect of our business, through which we aim to generate shared value with our employees, customers, suppliers, investors and communities. We look at CR through the lens of environmental, social and governance (ESG) issues, which allows us to prioritize where we need to focus our efforts to have the most impact and operationalize our goals into the business.
+While we address a wide range of ESG-related issues, based on our latest materiality assessment, we are elevating four strategic areas that are important to our stakeholders and business.
+Digital Impact Environmental Stewardship Supply Chain Responsibility Diversity, Belonging and Inclusion
+Our Goals
+We have set public goals and are committed to making meaningful progress in our CR efforts. Our goals include:
+100 million
+people will benefit from AMD and AMD Foundation philanthropy and partnerships that enable STEM education, scientific research and the workforce of the future (2020-2025)1
+increase in energy efficiency for AMD processors and accelerators powering servers for artificial intelligence-training and high-performance computing (2020-2025)2
+absolute reduction in greenhouse gas emissions from AMD operations (Scope 1 and 2) by 2030 (base year 2020)
+100%
+of AMD manufacturing suppliers will have a public greenhouse gas emissions reduction goal (2020-2025)
+of AMD manufacturing suppliers will source renewable energy (2020-2025)
+100%
+of AMD supplier manufacturing factories will have a Responsible Business Alliance (RBA) audit or equivalent (2020-2025)
+of AMD manufacturing suppliers by spend will participate in a capacity building activity (2020-2025)
+of our employees participate in AMD employee resource groups and/or other AMD inclusion initiatives (2020-2025)3
+Reporting on Our Progress
+Guided by a commitment to transparency, we report our annual performance and progress towards our goals in our CR Report. Our reporting is aligned with the leading sustainability reporting frameworks, including the Global Reporting Initiative Standards, the United Nations Sustainable Development Goals, the Sustainability Accounting Standards Board, the Task Force on Climate-related Financial Disclosures and CDP.
+Read Our Global CR Report Summary Learn about Our Material ESG Issues See Our ESG Disclosures
+Our Corporate Responsibility Highlights
+Strengthening AMD Communities Worldwide
+AMD makes an impact in our communities worldwide through philanthropic investments, partnerships and employee volunteerism.
+Regional Corporate Responsibility Reporting
+Our Latest Efforts
+- AMD Announces 30x Energy Efficiency Goal for AI Training and High-Performance Computing
+- Getting Creative with Pandemic Community Service
+- AMD COVID-19 HPC Fund: Advancing Global Health Research
+- AMD and the Central Texas Food Bank
+- RBA Honors AMD for Excellence in CSR Innovation
+- AMD Exceeds Its 25x20 Energy Efficiency Goal
+External Recognition
+While our commitment to being a responsible corporation is not dependent on recognition, it is a great validation of our work when external organizations rank us alongside the top sustainable companies. We are proud to be honored with the following awards and recognitions:
+- For each year during the goal period, data includes a) students, faculty or researchers with direct access to AMD-donated technology, funding or volunteers; and b) individuals with a reasonable likelihood of receiving research data formulated through AMD-donated technology and potentially gaining useful insights or knowledge.
+- Includes AMD high performance CPU and GPU accelerators used for AI training and High-Performance Computing in a 4-Accelerator, CPU hosted configuration. Goal calculations are based on performance scores as measured by standard performance metrics (HPC: Linpack DGEMM kernel FLOPS with 4k matrix size. AI training: lower precision training-focused floating-point math GEMM kernels such as FP16 or BF16 FLOPS operating on 4k matrices) divided by the rated power consumption of a representative accelerated compute node including the CPU host + memory, and 4 GPU accelerators.
+- These are voluntary initiatives in which an employee chooses to actively participate in one or more employee engagement programs that foster a culture of belonging, psychological safety and meaningful connection to AMD.

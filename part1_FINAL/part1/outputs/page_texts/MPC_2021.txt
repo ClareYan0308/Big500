@@ -1,0 +1,13 @@
+Employee Login
+Desktop and Web Applications
+My Virtual Desktop and Web Based Applications can be found here https://myapps.marathonpetroleum.com//
+Password Reset Portal
+Reset your password or unlock your account using the Self-Service Password Reset Portal.
+Corporate Email & Office 365
+Access your corporate email and Microsoft Office apps https://office.com
+Microsoft Authenticator
+Use the Microsoft Authenticator Guide to access your company email and other resources from non-company devices.
+VPN from your Company PC
+Need help? Download the AnyConnect Guide to connect your company PC to the corporate network using VPN.
+Legacy Andeavor Employees
+Access to the legacy Andeavor employee login page can be found here.

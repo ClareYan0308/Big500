@@ -1,0 +1,296 @@
+Our history is marked by a commitment to innovation that's truly useful to our customers — putting the real needs of people ahead of technical one-upmanship.
+“Technology for technology's sake” is not the way we do business at AMD. AMD founder Jerry Sanders has always maintained, “customers should come first, at every stage of a company's activities.”
+We believe that our more than four-decade company history bears that out.
+2016
+- AMD announced availability of its first GPU-based on its new 14nm FinFET Polaris architecture. The
+RadeonTM RX 480 graphics card is designed to deliver premium VR experiences to the largest segment of GPU buyers.
+- AMD
+announced the acquisition of software company HiAlgo Inc., a developer of unique PC gaming technologies, which will help drive future gaming innovation in Radeon Software that will benefit owners of RadeonTM RX Series GPUs and beyond.
+- Microsoft
+announced the addition of two new AMD-powered game consoles. The Xbox One S will be available in August 2016, while the company’s Project Scorpio will arrive for Holiday 2017.
+- AMD
+released its 21st annual corporate responsibility (CR) report and summary magazine, detailing the company’s progress towards its social and environmental goals, as well as outlining the CR impacts and opportunities in its supply chain and associated with the use of its products.
+- AMD’s 25x20 energy efficiency initiative was named
+Environmental Leader’s “Project of the Year,” an award recognizing excellence and innovation leading to improved environmental or energy management.
+- AMD launched its
+7th Generation A-Series APU mobile processors (“Bristol Ridge”), designed to deliver up to 53 percent higher graphics performance and up to 51 percent higher compute performance versus competitive solutions, as well as improved energy efficiency of up to 12 percent compared to the previous generation.
+AMD conducted the world’s first live public demonstration of its upcoming x86 “Zen” processor core architecture in the next-generation AM4 desktop processor (codenamed “Summit Ridge”).
+- Sony Interactive Entertainment
+announced that, as of May 26, 2016, it has sold more than 40 million AMD-powered PlayStation®4 game consoles worldwide.
+- AMD introduced the
+AMD FireProTM S7100X, the industry’s only hardware-virtualized GPU for blade servers.
+- AMD joined with ARM, Huawei, IBM, Mellanox, Qualcomm Technologies and Xilinx to
+establish a new, open specification for high-performance, coherent interconnect technology designed to significantly improve compute efficiency for servers running datacenter workloads.
+- The AMD Board of Directors
+appointed Board member John Caldwell as Chairman.
+- AMD and Nantong Fujitsu Microelectronics Co., Ltd. (NFME) (SZSE: TFWD) closed a $436 million transaction to
+create a joint venture offering differentiated assembly, test, mark, and pack (ATMP) capabilities to both AMD and a broader range of customers.
+- AMD
+licensed high-performance processor and SoC technology to a newly-created joint venture it has formed with THATIC (Tianjin Haiguang Advanced Technology Investment Co., Ltd.) to develop SoCs tailored to the Chinese server market. The licensing agreement is a meaningful step in AMD’s IP monetization strategy intended to accelerate the company’s growth and adoption of AMD server technology.
+- AMD announced the
+AMD FireProTM W9100 32GB, the world’s first workstation graphics card with industry-leading 32GB memory support for large asset workflows with creative applications.
+- AMD and the University of Toronto
+announced a collaboration to build The Canadian Hydrogen Intensity Mapping Experiment (CHIME), a radio telescope that will attempt to 3D map the largest volume of the universe ever observed, with a supercomputer powered by multiple AMD FireProTM S9300 x2 GPUs. These are the first GPUs for datacenter use equipped with High Bandwidth Memory (HBM).
+- Sulon Technologies
+announced the Sulon Q, the world’s only all-in-one, tether-free "wear and play” headset for VR, AR, and spatial computing – powered by the AMD FX-8800P processor.
+- AMD
+introduced the world’s most powerful platform for VR, the AMD RadeonTM Pro Duo featuring AMD LiquidVRTM technology.
+- AMD revealed the world’s first hardware virtualized GPU products –
+AMD FireProTM S-Series GPUs with Multiuser GPU (MxGPU) technology that enables a precise, secure, high performance, and enriched graphics user experience.
+- AMD collaborated with
+The Associated Press to create a new VR experience channel to fuel next-generation journalism.
+- AMD launched its fastest APU released to date, the
+AMD A10-7890K.
+- AMD launched new desktop component thermal solutions, including the flagship
+AMD Wraith Cooler.
+- AMD
+launched its first 64-bit ARM® based product – the AMD OpteronTM A1100 SoC – designed to accelerate time-to-market deployment of ARM-based systems for the datacenter and improve enterprise-class ecosystem support for 64-bit ARM in key markets.
+2015
+- AMD announced the
+GPUOpen initiative to help address the evolving demands of graphics and unlock game and application development through open source software.
+- AMD achieved the
+number one market share position for thin clients based on its unit shipments.
+- AMD launched the “Boltzman Initiative” a suite of tools designed to dramatically simplify GPU computing on AMD FireProTM Graphics by leveraging Heterogeneous Systems Architecture’s (HSA's) ability to harness both CPU and GPU for maximum compute efficiency through software.
+- AMD launched its commercial client
+PRO A-Series processors which were, for the first time, the exclusive launch processor for HP's EliteBook commercial client mobile and desktop systems.
+- AMD was named to the
+2015 Dow Jones Sustainability Index for the 14th consecutive year.
+- AMD
+formed the Radeon Technologies Group (RTG) to strengthen its focus on graphics and immersive computing, including VR and AR.
+- AMD announced the
+AMD RadeonTM R9 Nano, the world’s smallest enthusiast graphics card.
+- AMD introduced the
+AMD FireProTM S9170 server GPU, the world’s first and fastest 32GB single-GPU server card for high performance compute (HPC).
+- At its
+2015 Financial Analyst Day event, AMD outlined its multi-year strategy to drive profitable growth based on delivering a broad set of high-performance, differentiated products across the key areas of gaming, immersive platforms, and the datacenter. AMD also provided a product roadmap update that includes its upcoming “Zen” x86 core for high-performance client and server computing.
+- AMD was named to the Fortune 500 List for the 15th year in a row.
+- AMD introduced the industry’s first graphics chip to combine high-bandwidth memory (HBM) and die-stacking technology in a single package with
+its new flagship AMD RadeonTM R9 Fury X GPU, which delivers 60 percent more memory bandwidth and 3x the performance-per-watt of previous generation GDDR memory6.
+- AMD
+announced the AMD 6th Generation A-Series mobile processors delivering a significant 2.4x improvement in energy efficiency over previous generation processors7, 2x the gaming performance of competing platforms8, and featuring Microsoft Windows® 10 compatibility.
+- AMD announced that its FireProTM professional graphics power
+one of the world’s largest and most technologically advanced display walls, located in New York’s Times Square.
+- AMD
+demonstrated its commitment to leadership in HPC with the announcement that the University of Warsaw’s new ORION supercomputer cluster uses 150 Dell PowerEdge R730 servers each featuring 2 AMD FireProTM S9150 server GPUs to deliver a GPU peak compute performance of 1.52 petaFLOPS single precision and 0.76 petaFLOPS double precision for OpenCLTM applications9.
+- AMD expanded its leadership position in virtual reality (VR) as partners continue to realize the benefits of AMD LiquidVRTM technology across a variety of industries, including
+education,
+entertainment,
+gaming, and
+medical research.
+- AMD released its
+20th Anniversary Corporate Responsibility Report.
+- AMD transferred its stock exchange to The Nasdaq Stock Market (NASDAQ: AMD).
+- AMD joined other HSA Foundation members including ARM®, LG Electronics, MediaTek, Qualcomm, and Samsung in bringing the industry one step closer to delivering true heterogeneous computing across the billons of modern SoCs powering mobile devices, desktop PCs, high-performance computing (HPC) systems, and servers with the release of the HSA 1.0 specification.
+- Adoption of AMD’s high-performance APUs in key embedded markets continued with new product introductions from Samsung Electronics, GE Intelligent Platforms and Fujitsu.
+- Acer, BenQ and LG Electronics began offering displays supporting AMD FreeSyncTM technology, designed to enable fluid gaming and video playback at virtually any frame.
+- AMD momentum in business-class graphics continued with new design wins with HP, including AMD FireProTM professional graphics cards in new HP Zbook solutions and the AMD FireProTM server GPU now available on the HP ProLiant DL380 Gen9, the world’s best-selling server.5
+- AMD announced the LiquidVRTM initiative in close collaboration with key technology partners to deliver the next-generation of Virtual Reality capable of delivering immersive awareness where situations, objects, or characters within the virtual world seem “real.”
+2014
+- AMD appointed Dr. Lisa Su as president and CEO and a member of the board of directors.
+Reported a full fiscal year of Non-GAAP operating profitability.
+- AMD
+continued to diversify its revenue, deriving approximately 40 percent of revenue from high-growth markets adjacent to the traditional PC business.
+- Re-profiled debt, pushing the majority of debt maturities to 2019 and beyond.
+- AMD detailed its
+25x20 Energy Efficiency Initiative which sets a goal to deliver at least 25 times more energy efficiency from its APUs by 2020.
+- Dow Jones named AMD to the Dow Jones Sustainability Index (DJSI) North America, marking more than a decade-long appearance on the list and exemplifying the company's legacy of corporate responsibility and commitment to social, economic and environmental issues.
+- AMD products featured inside all current generation game consoles: AMD semi-custom APUs in the Microsoft® Xbox OneTM and Sony PS4, and AMD graphics in the Nintendo Wii UTM, with Microsoft and Sony having shipped nearly 30 million consoles to-date.1
+- AMD announced two new confidential semi-custom design wins, including its first 64-bit ARM® based design win and diversification beyond gaming.
+- AMD embedded RadeonTM graphics were
+selected by Boeing for its next-generation advanced cockpit display systems.
+- AMD publicly demonstrated for the first time its 64-bit ARM-based AMD OpteronTM A-Series processor, codenamed "Seattle".
+- AMD introduced the world's most powerful server GPU – the AMD FireProTM S9150.
+- Apple introduced the
+Apple® iMac with Retina 5K display powered by AMD RadeonTM R9 M290X graphics.
+- AMD introduced the Mantle graphics API, designed to alleviate software inefficiencies that have historically stifled PC gaming performance and take fuller advantage of modern AMD APUs and GPUs to deliver more immersive, console-like experiences.
+- AMD introduced the
+AMD RadeonTM R9 295X2, the world's fastest and most powerful graphics card, powered by two AMD RadeonTM R9 Series GPUs on a single card.
+- AMD earned a
+Best of Mobile World Congress 2014 award for the "Nano PC" design concept, a full-feature Windows® 8 PC reference design about the size of a smart phone.
+- AMD
+introduced the 4th generation AMD A-Series APU, formerly codenamed "Kaveri", the world's first APU with HSA features, including commercial versions known as the AMD PRO Series and the first-ever FX-branded APU for notebooks.
+- AMD doubled its commercial client design wins year-over-year, which included
+a full line up of HP Elite 700-Series notebooks, desktops and all-in-ones based on
+AMD PRO A-Series APUs Dr Pepper Snapple Group
+standardized its workforce around the HP EliteBook 745 Notebook PC with AMD processors soon thereafter.
+2013
+- AMD's technology is featured inside every major next generation gaming console and home entertainment system: Microsoft's Xbox One, Sony's PS4TM, and Nintendo's Wii U.
+- Introduced the fastest desktop and notebook graphics solutions in the world for enthusiasts who want to take their PC gaming to the next level2,3.
+- Apple® announced its radically redesigned Mac Pro will feature dual AMD FireProTM graphics cards, improving both the visual and general computing performance of Apple's high-end system and providing the power needed by the most demanding digital content creators.
+- AMD launched the AMD OpteronTM X-Series processors, the industry's highest performance small core x86 server processors4.
+2012
+- Became the first company to announce plans to design and offer both 64-bit ARM® technology-based and x86 processors for multiple markets, starting with server and embedded processors.
+Announced a definitive agreement to acquire SeaMicro, a pioneer in energy-efficient, high-bandwidth microservers. AMD's server technology combined with SeaMicro technology provides customers with a range of processor choices and platforms that can help significantly reduce data center complexity, cost and energy consumption while improving performance.
+- Became a founding member of the Heterogeneous System Architecture (HSA) Foundation along with ARM, Imagination Technologies, MediaTek Inc., Qualcomm, Samsung, and Texas Instruments. The HSA Foundation is a not-for-profit consortium of SoC IP vendors, OEMs, academia, OSVs and ISVs whose mission is to make it easy for developers to program for parallel computing.
+- Announced an industry-first collaboration to extend
+ARM® TrustZone® security technology into x86-based AMD offerings. TrustZone security technology enables secure online transactions via Internet-connected mobile devices, tablets, PCs and servers.
+- Rockwell Collins, a leader in innovative communications and avionics systems for the aerospace and defense industries,
+selected the AMD RadeonTM E2400 embedded graphics processor to provide pilots with detailed 3D imagery that improves in-flight situational awareness of terrain, obstacles and runways in low visibility conditions.
+- Announced new low-power AMD Embedded G-Series A platform, delivering ideal balance of performance, power efficiency and cost for power in embedded applications.
+Launched the world's fastest and most versatile graphics card in the AMD RadeonTM HD 7970 GHz Edition, delivering world-class gameplay at the highest resolutions.
+- Introduced
+"Surround Computing" at Hot Chips – the vision for the next generation of computing, highlighting impactful results for both clients and servers.
+Unveiled a new generation of APUs and innovative SoCs, including the industry's first quad-core x86 SoCs. The new products deliver low-power mobility and long battery life with exceptional compute and graphics performance.
+- Proudly added VIZIO to our list of OEM customers with the introduction of innovative AMD-powered products that include an APU-powered tablet PC, high-performance ultra-thin notebooks and an all-in-one system.
+Introduced the AMD Z-60 APU tablet processor for Windows® 8 tablets. The Z-60 is AMD's lowest power APU to-date, enabling up to eight hours of battery life while Web browsing and up to six hours of HD video playback1.
+- Launched a full line of next generation AMD RadeonTM HD 7000M series products for superior mobile gaming experiences.
+- Announced the SeaMicro SM15000, delivering best-in-class energy efficiency, density, and bandwidth while dramatically reducing CAPEX and OPEX associated with server deployment and management.
+- Delivered a full range of Graphics Core Next architecture-enabled workstation- and server-class GPUs: AMD FireProTM W9000, AMD FirePro W8000, AMD FirePro W7000, AMD FirePro W5000, AMD FirePro S10000, AMD FirePro S9000, AMD FirePro S7000, and the AMD FirePro W600, as well as we three AMD FireProTM graphics processors for mobile workstations, which meet the demands of graphics professionals on the go.
+2011
+- AMD launches the AMD Fusion Family of APUs – which consist of both a CPU and powerful GPU on a single die – marking perhaps the greatest advancement in processing since the introduction of the x86 architecture more than 40 years ago. As of the second quarter, AMD shipped more than 12 million APUs.
+- AMD APUs receive more than 300 design wins from leading PC manufacturers including Acer, Asus, Dell, HP, Lenovo, Samsung, Sony and Toshiba.
+- AMD showcases the
+world’s fastest CPU at AMD Fusion Zone. This record-setting display of processor speed (which resides in the AMD FX CPU) signals important performance gains for the new AMD “Bulldozer” multi-core architecture. The Guinness World Record-breaking AMD FX CPU clearly demonstrates performance gains for the new AMD ‘Bulldozer’ multi-core architecture, which will provide x86 computing power future APUs.
+- AMD
+launches the world’s first APU for embedded systems with the Embedded G-Series platform, boasting a record number of embedded partners at launch, including Fujitsu, Kontron, Quixant and Congatec.
+- AMD names Rory Read president and CEO.
+- AMD introduces its next-generation mobile graphics technology, the AMD RadeonTM HD 6000M series, just prior to Apple’s refresh of the Macbook Pro line, adding AMD RadeonTM HD 6490M and HD 6750M graphics to 15 and 17-inch model offerings.
+- AMD
+unveils new professional graphics solutions with enhanced digital display capabilities in the form of the AMD FireProTM 2270 and ATI FireProTM V5800 DVI graphics cards, designed for professionals in the medical, financial, design and engineering fields who need to run multiple, graphic-intensive, applications simultaneously.
+- AMD expands the AMD Opteron 6100 series family, with five new processor models with new or updated designs from Acer, Cray, Dell, HP, SGI and others, offering more choice to customers while delivering the core count, memory capacity and value they demand.
+- AMD extends its superiority in the graphics market with launches of the AMD RadeonTM HD 6800 and HD 6900 series graphics cards.
+- AMD launches the
+fastest discrete graphics card in the world, the AMD RadeonTM HD 6990.
+- AMD Fusion APUs
+receive the 2011 Best Choice of Computex Taipei Award.
+- AMD demonstrated “Trinity” the company’s mainstream notebook APU for 2012 that consumes less than half the power of today’s lowest power 35 watt “Llano” APU.
+- AMD unveils its new HD tablet platform, AMD’s 9-series chipsets, and Fusion APU Roadmap & Vision Technology at Computex.
+- AMD holds the first annual
+Fusion Developer Summit. More than 700 developers and PC industry executives attend the inaugural event to view the roadmap for its Fusion System Architecture (FSA) and the specific design features planned for future AMD products.
+- AMD makes waves at the Electronic Entertainment Expo (E3),
+re-launching its FX brand for enthusiast PC and HD entertainment aficionados and announcing the inclusion of AMD graphics in the Nintendo Wii-U. The Wii-U is the third consecutive Nintendo console that features AMD Graphics.
+- AMD
+adds more gaming partners than ever before in the second year of the Gaming Evolved program, enabling AMD Eyefinity and AMD HD3D in titles like Eidos-Montreal’s ‘Deus Ex: Human Revolution”, Bioware’s “Dragon Age II”, Creative Assembly’s “SHOGUN 2: Total War“ and Codemasters’ “DiRT 3”.
+2010
+- AMD announces the AMD OpteronTM 4000 Series platform, the first true server platform designed from the beginning to meet the needs of cloud, hyperscale and SMB data centers.
+- AMD introduces the AMD FireStreamTM 9350 and 9370 GPU compute accelerators, delivering up to 2.64 TFLOPS of compute power for commercial, scientific and academic research markets.
+- AMD delivers the first public demonstration of an AMD Fusion processor at Computex 2010.
+- AMD launches the AMD Fusion Fund, a program that will invest in companies working on software solutions enabled by the upcoming AMD FusionTM family of Accelerated Processing Unit (APU) products, demonstrating AMD’s commitment to the Fusion software ecosystem.
+- AMD rolls out a complete refresh of its desktop and notebook platforms based on VISION Technology for consumer and commercial customers with improved performance and battery life, and announces OEM support of high quality and high quantity.
+- AMD introduces its fastest and most tunable desktop processor ever as well as its first six-core processor, the AMD PhenomTM II X6 1090T Black Edition, featuring new Turbo CORE technology for more demanding games and productivity software.
+- AMD introduces the AMD OpteronTM 6000 Series platform, featuring the world’s first 8- and 12-core x86 processor for the high-volume 2P and value 4P server market, designed to deliver workload-specific performance, power efficiency, and overall value.
+- AMD announces that the Ontario government will award AMD Canada with a five-year grant of $56.4 million CAD ($52.8M USD) to fund R&D activities in the development of the upcoming AMD Fusion family of processors and related software infrastructure.
+- AMD expands its successful VISION technology into the commercial client market with VISION Pro Technology and introduces the first commercial laptops based on VISION Pro Technology from AMD with the Lenovo ThinkPad X100e and the ThinkPad Edge Series laptops.
+2009
+- AMD and Intel announce a settlement of all antitrust and IP disputes, with Intel paying AMD $1.25 billion and agreeing to abide by a set of business practice provisions.
+- AMD introduces ATI RadeonTM HD 5970, the fastest graphics card in the world to date, designed to support the most demanding PC games at ultra-high resolutions and ensure superior performance in the latest DirectX 11 games.
+- AMD launches the Fusion Partner Program to consolidate AMD’s existing partner programs into one globally consistent yet regionally flexible program and to provide partners with customized incentives and resources that align with their business objectives to help them accelerate solutions development and sales.
+- AMD simplifies the PC buying experience for consumers with the introduction of VISION Technology from AMD, which communicates what user experience the PC will deliver instead of focusing on the technical specs of hardware components.
+- AMD unveils ATI Eyefinity multi-display technology, a revolutionary feature in the ATI RadeonTM family of graphics processors that gives PCs the ability to seamlessly connect up to six ultra high definition displays for a stunning new perspective on their PC experience.
+- AMD introduces the Six-Core AMD OpteronTM processor with AMD Chipset platform, the first server platform that enables advanced performance, the benefits of unified processor and chipset technology, and furthers AMD’s commitment to energy efficiency.
+- AMD joins GLOBALFOUNDRIES to break ground on a state-of-the-art semiconductor manufacturing facility in upstate New York, fulfilling AMD's multi-year vision to bring a leading-edge semiconductor manufacturing facility to the United States.
+- AMD completes the shipment of its 500 millionth x86 processor since the company’s founding in 1969.
+- GLOBALFOUNDRIES, a new leading-edge semiconductor manufacturing company, is formed by a joint venture between AMD and the Advanced Technology Investment Company (ATIC).
+- AMD introduces the ultrathin notebook platform codenamed "Yukon," enabling exceedingly thin and light OEM designs with rich entertainment capabilities at an affordable price. The platform is based on the new AMD AthlonTM Neo processor, ATI RadeonTM X1250 integrated graphics and optional ATI Mobility Radeon HD 3410 discrete graphics and enables true HD entertainment in a new category of stylish notebook PCs.
+- AMD introduces the AMD platform technology codenamed "Dragon" for desktop PCs, which provides the power to do it all by combining AMD's highest-performing CPU, the AMD PhenomTM II X4 processor, with award winning ATI RadeonTM HD 4800 Series graphics and AMD 7-Series chipsets.
+- AMD introduces its most energy efficient AMD OpteronTM processor to date: the Quad-Core AMD Opteron EE processor. The new technology not only delivers more choices for IT customers who require an extremely energy efficient solution, but also targets the unique needs of cloud computing platforms.
+- AMD ships the 50 millionth ATI 'Hollywood' graphics processor for the Wii game console from Nintendo, making 'Hollywood' the most successful AMD technology-based game console chip to date in terms of unit sales.
+- AMD's Lone Star campus in Austin, TX achieves a gold certification under the U.S. Green Building Council Leadership in Energy and Environmental Design (LEED) Green Building Rating System. Based on current certified projects, this is the largest gold certified LEED® commercial building in Texas.
+2008
+- Dirk Meyer succeeds Hector Ruiz as AMD President and CEO.
+- TACC, based on AMD Opteron processor-based Sun servers, becomes world's largest computer devoted to general research.
+- AMD LIVE!TM Explorer launches, enabling immersive HD entertainment for the home PC.
+- Launch of AMD Changing the Game, a non-profit program intended to improve kids' technical and life skills by teaching them to develop digital games with social content.
+- AMD demonstrates the Cinema 2.0 Experience, punching holes in the 'sensory barrier' separating cinema and games.
+2007
+- AMD introduces ATI RadeonTM HD 2000 series graphics processors to deliver The Ultimate Visual ExperienceTM graphics for desktop and mobile platforms.
+2006
+- AMD demonstrates Accelerated Computing platform that breaks teraflop performance barrier.
+- AMD acquires ATI to create a new, innovative processing powerhouse.
+- CrossFireTM multi-GPU gaming platform debuts.
+- AMD LIVE!TM media center PCs debut
+Dell Inc. announces it will offer AMD processor-based systems.
+- AMD begins revenue shipments of processors from Fab 36.
+- AMD's Shanghai Research and Development Center (SRDC) launches to focus on the development of AMD's next-generation mobile platforms.
+- AMD demonstrates the industry's first native quad-core x86 server processor.
+- AMD is a founding member of The Green Grid, an open, global organization designed to decrease IT facility energy usage patterns.
+2005
+- AMD introduces AMD TurionTM 64 mobile technology for notebook PCs and AMD AthlonTM 64 X 2 dual-core processor for desktop.
+- AMD introduces the world's highest performing processors for 1-8P x86 servers and workstations.
+- AMD files landmark antitrust litigation against Intel for illegally abusing its monopoly to exclude and limit competition.
+- SpansionTM goes public.
+- AMD announces grand opening of Fab 36 in Dresden, Germany.
+- ATI GPU is featured in Microsoft Xbox 360, revolutionizing high-definition gaming.
+2004
+- AMD demonstrates world's first x86 dual-core processor.
+- AMD announces the 50x15 Initiative with the goal of accelerating affordable Internet access and basic computing to 50 percent of the world's population by 2015.
+- Advanced Micro Devices (China) Co., Ltd. is established, headquartered in Beijing.
+- ATI is listed in the NASDAQ 100.
+- ATI introduces first 110nm GPUs (ATI RadeonTM X800 XL).
+2003
+- AMD and IBM sign joint manufacturing technology development agreement to develop future generation manufacturing technologies.
+- AMD OpteronTM processor and AMD AthlonTM 64 processor debut.
+- With Fujitsu, AMD forms FASL, LLC, and a new company: SpansionTM.
+- AMD forms strategic alliance with Sun Microsystems and acquires National Semiconductor's x86 business.
+- ATI introduces ATI RadeonTM 9600 XT: world's first high volume 0.13um low-k chips.
+2002
+- Hector Ruiz appointed president and CEO.
+- AMD acquires Alchemy Semiconductor for low-power, embedded processor technology.
+- AMD Cool'n'QuietTM technology debuts with AthlonTM XP family: helps lower power consumption, enables quieter-running system, and delivers performance on-demand to maximize users' computing experience.
+- ATI launches ATI RadeonTM 9700 Pro: world's first DirectX 9 graphics processor.
+2001
+- AMD AthlonTM MP processor debuts: the company's first multiprocessing platform.
+- HyperTransportTM technology is adopted by Agilent, Apple Computer, Broadcom, Cisco Systems, IBM, nVidia, Sun, and Texas Instruments.
+2000
+- AMD is first to break the historic 1GHz (one billion clock cycles per second) with the AMD AthlonTM processor.
+- AMD introduces AMD PowerNow!TM technology with Mobile AMD-K6®-2+ processors.
+- ATI RadeonTM graphics technology debuts: leading product for high-end gaming and 3D workstations.
+- ATI acquires ArtX, Inc., a graphics chipset company.
+1999
+- AMD AthlonTM processor becomes first seventh-generation processor for Microsoft® Windows® computing.
+- Vantis, AMD's programmable logic business, sold to Lattice Semiconductor.
+1998
+- ATI is first company to introduce a complete set-top box design.
+- ATI ships its ten millionth AGP chip.
+1997
+- AMD introduces the AMD-K6® microprocessor: helps drive PC prices below $1,000 for the first time, making PCs affordable to average consumers.
+- ATI is first graphics company to provide hardware support for DVD acceleration and display.
+- ATI is first graphics company to release products supporting Accelerated Graphics Port, the new industry standard.
+1996
+- AMD acquires NexGen, a microprocessor company.
+- ATI releases industry's first 3D graphics chip, first combination graphics and TV tuner card, and first chip to display computer graphics on a television.
+- ATI enters the notebook market with the industry's first notebook 3D graphics accelerator.
+- ATI establishes ATI Ireland.
+1995
+- AMD introduces AMD-K5® microprocessor: first independently-designed, socket-compatible x86 microprocessor.
+- ATI is first graphics company to ship Mac-compatible graphics boards.
+1994
+- AMD and Compaq Computer Corp. form long-term alliance to power Compaq computers with Am486 microprocessors.
+- ATI introduces Mach64TM: first ATI graphics boards to accelerate motion video.
+1993
+- AMD Am486® microprocessor family debuts.
+- AMD establishes joint venture with Fujitsu to produce Flash memory products.
+- ATI goes public; stocks are listed on NASDAQ and Toronto Stock Exchange.
+1992
+- ATI introduces Mach32TM: first ATI integrated graphics controller and accelerator in one chip.
+- ATI releases VESA Local Bus (VLB) products, followed by peripheral component interconnect (PCI_) products.
+- ATI establishes ATI GmbH in Munich, Germany.
+1991
+- AMD's Am386® microprocessor family debuts.
+- ATI introduces Mach8TM chip and board products: first ATI products to process graphics independently of the CPU.
+1989
+- ATI assists in establishment of VESA standard for graphics industry.
+1988
+- Work begins on AMD Submicron Development Center.
+1987
+- AMD acquires Monolithic Memories, Inc. and enters programmable logic business.
+- ATI debuts EGA WonderTM and VGA WonderTM.
+1986
+- ATI secures major contract with Commodore Business Machines to supply 7000 chips per week.
+1985
+- AMD is listed in Fortune 500 for the first time.
+- ATI incorporates.
+- ATI develops its first graphics controller and first graphics board product.
+1984
+- AMD is listed in "The 100 Best Companies to Work for in America.
+1982
+- At IBM's request, AMD signs an agreement to serve as a second source to Intel for IBM PC microprocessors.
+1979
+- AMD debuts on the New York Stock Exchange.
+- Production begins in new AMD Austin manufacturing facility.
+1972
+1970
+- AMD introduces its first proprietary device: the Am2501 logic counter.
+1969
+- Co-founder Jerry Sanders named AMD’s first president and CEO.
+- AMD incorporates with $100,000; establishes headquarters in Sunnyvale, California.

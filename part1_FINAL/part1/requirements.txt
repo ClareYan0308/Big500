@@ -1,0 +1,18 @@
+# -- Wayback Machine scraping --------------------------------------------------
+requests==2.31.0          # HTTP client (CDX API + HTML fetch)
+urllib3==2.0.7            # Used by requests
+
+# -- HTML text extraction ------------------------------------------------------
+trafilatura==1.6.3        # Primary extractor (ML-based boilerplate removal)
+beautifulsoup4==4.12.2    # Fallback extractor
+lxml==4.9.3               # BS4 HTML parser backend
+
+# -- LLM analysis -------------------------------------------------------------
+anthropic==0.23.1         # Anthropic Messages API client
+
+# -- Data handling -------------------------------------------------------------
+pandas==2.1.4             # Dataset assembly and CSV export
+
+# -- Utilities -----------------------------------------------------------------
+python-dotenv==1.0.0      # Load ANTHROPIC_API_KEY from .env file
+tqdm==4.66.1              # Progress bars

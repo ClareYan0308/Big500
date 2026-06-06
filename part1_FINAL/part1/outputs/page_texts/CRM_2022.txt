@@ -1,0 +1,10 @@
+A11Y for products: Building better products that include everyone.
+At Salesforce, we recognize the powerful insights that users with disabilities bring to our product development process, and weâre committed to creating products that work for everyone.
+Accessibility is much more than just the âright thing to do.â It's an exponential market opportunity and an economic imperative. Consider the tools around you: reading glasses, the touch screen on your mobile device, captions, your computer keyboard, email, flexible straws, automatic door openers â and so much more. Created by and with people with disabilities, each of these accessibility innovations became ubiquitous tools for billions of people.
+We include individuals with disabilities throughout the development process to help us understand the different ways people experience our products, increase adoption, and uncover technology solutions that meet all user needs. Itâs all part of how we strive to create products and features that work for everyone.
+“Accessibility allows us to tap into everyoneâs potential.”
+Build with accessibility in mind.
+When it comes to developing products that are accessible to all, there are a few must-remembers to keep in mind. The specifics vary based on what it is youâre trying to build, but it mostly boils down to asking:Â
+Who might we be excluding?
+How can we best ensure that we build in accessibility from the beginning?
+Any time we create a solution as a company, we invite the disability community to play an active role. The communityâs input helps us create products that allow people with disabilities to fully engage.

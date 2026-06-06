@@ -1,0 +1,3 @@
+Three converging forces brought about the era of AI: the availability of immense stores of data, the invention of deep learning algorithms, and the intense performance of GPU computing.
+New internet services, like Google Assistant, have learned speech from sound. Self-driving cars use deep learning to recognize the space the car inhabits and what to avoid. In healthcare, neural networks trained with millions of medical images can find clues in MRIs that until now could only be found through invasive biopsies.
+AI will spur a wave of social progress unmatched since the industrial revolution.

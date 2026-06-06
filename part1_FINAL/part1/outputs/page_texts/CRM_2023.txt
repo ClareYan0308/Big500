@@ -1,0 +1,25 @@
+Championing equality and equity for people with disabilities.
+In this digital, work-from-anywhere world, inclusion and equal access to technology are more important than ever before. The 2030 Agenda for Sustainable Development states that disability cannot be a reason or criterion for lack of access to development programming and the realization of human rights, and itâs up to all of us to lead the charge in creating accessible experiences for all.
+At Salesforce, we believe that everyone should benefit from our products, experiences, and culture. We canât do this alone, and we don't have all the answers. But we are committed to continually learning and iterating.
+What is a11y?
+Throughout this site, you'll notice references to "a11y" (pronounced "A-eleven-Y"). This is a globally recognized abbreviation for "accessibility," designed to be more compact for social media character limits. The "11" in the middle stems from software engineering conventions that shorten long words by substituting the number of "middle" letters in a word â in this case, 11.Â In recent years, a11y has gained momentum outside of the technical realm to represent the broader movement of accessibility and diversity inclusion.
+Access is a catalyst for inclusion and belonging.
+The road to equality, inclusion, and true belonging for people with disabilities is a journey, and we know there is more work to be done. The more we provide people with disabilities access to the same opportunities and experiences, the more inclusive â and stronger â we become.
+Accessibility and Disability Inclusion at Salesforce
+Our accessibility efforts extend to how we think about our products, events, and experiences, with the goal of becoming a top employer for people with disabilities.
+Inclusive Resources
+To help encourage an inclusion-first approach, weâve created many initiatives that aid us in our journey to providing equal opportunities for all.
+Design intentionally for and with people with disabilities.
+In a broad sense, accessibility allows people with disabilities to use products and services independently. In practice, that means designing with the community in mind. Hereâs how weâve incorporated accessible experiences into different aspects of our business.Â
+For Products
+Weâre committed to using inclusive design and other methods to provide accessible applications for all.
+For Work
+Weâre stronger together. Learn how we amplify diverse voices and create accessible experiences.
+In the Media
+Learn about our accessibility effortsÂ through case studies, articles, and more.
+Accessibility team spotlights.
+Each of our leaders is personally committed to bringing their personal experiences and passion for inclusion to our teams. Join us in celebrating their stories.
+Catherine Nichols, VP, Office of Accessibility
+Get to know our VP of the Office of Accessibility âÂ and her vision for accessibility at Salesforce.
+Daniel Sonnenfeld, Accessibility Compliance Program Director
+Daniel shares how being an ally means thoughtfully designing content with everyone in mind.
